@@ -1,0 +1,13 @@
+[
+  {"payload": {"value": {
+    "codigo_curva": "2361", "nome_curva": "BRL_KLm0_RM01", "nome_tipo_curva": "BASE",
+    "data_liberacao": "20261109", "data_inclusao": "2026-11-09T18:05:00Z",
+    "data_execucao_processo": "2026-11-09T18:00:00Z",
+    "url": "https://curvas-v1-distribuiprecoscorporativos.api-sp.dev.aws.cloud.ihf/curvas/v1/pontoscurvas/BRL_KLm0_RM01"
+  }}},
+  {"payload": {"value": {
+    "codigo_curva": "4540", "nome_curva": "USDBZG_Spm0_RM01", "nome_tipo_curva": "TRANSFER",
+    "data_liberacao": "2026-11-09", "data_inclusao": "2026-11-09T18:06:00Z"
+  }}},
+  {"payload": {"value": {"codigo_curva": "9999", "nome_tipo_curva": "BASE"}}}
+]
